@@ -2,6 +2,7 @@
 title: "Howto Create a Solid Password"
 date: 2021-01-19T00:43:13-05:00
 draft: false
+author: Peter D'Souza
 ---
 
 ## One Master Password to Secure Them All
