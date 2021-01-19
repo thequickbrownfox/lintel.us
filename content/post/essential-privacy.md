@@ -33,7 +33,7 @@ Get off WhatsApp and start using [Signal](https://signal.org) and [Telegram](htt
 
 ### 3. One Good Password Is All You Need
 
-Passwords are often the weakest link in your Internet security chain.  _Remembering a good password can be as easy as remembering a weak password. 
+Passwords are often the weakest link in your Internet security chain.  _Remembering a good password can be as easy as remembering a weak password._ 
 
 We have two recommendations:
 1. Get yourself a **password manager** (think of it as an online vault for passwords)
