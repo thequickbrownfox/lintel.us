@@ -39,7 +39,7 @@ Here are some tips that will help you to both create and remember a secure passw
 (We added a - on a line by itself and split the author's name over two lines. A little complexity helps!)
 
 ### A Reference to a Bible Verse
-Surprise, popular Bible verses are also popular passwords. It should not come as a shock when we suggest that you do not use `John3:16` or `phil4:13`. Instead, choose a selection of verses from the same chapter, for example, `Psalm91:1-2,9-10`. Doing so satisfies the complexity requirements for most passwords by having capital and lowercase letters, a number, a special character, and is longer than 10 characters.
+Surprise—popular Bible verses are also popular passwords. It should not come as a shock when we suggest that you do not use `John3:16` or `phil4:13`. Instead, choose a selection of verses from the same chapter, for example, `Psalm91:1-2,9-10`. Doing so satisfies the complexity requirements for most passwords by having capital and lowercase letters, a number, a special character, and is longer than 10 characters.
 
 ## Finally ...
 Do not use your master password anywhere else. It should only be used to protect your password vault.
