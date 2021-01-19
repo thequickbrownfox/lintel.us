@@ -29,9 +29,9 @@ Remove **Facebook** and **Instagram** from your phone. These two apps are some o
 ### 3. Text and Group Chats
 **WhatsApp** recently announced a change to its terms of service which has sent its users flocking to services like [Signal](https://signal.org) and [Telegram](https://telegram.org). WhatsApp might protect the content of your chats, but it makes no such assurance of privacy when it comes to sharing other data including your phone number, contacts, call details, payments, etc. Similarly, your phone's standard text messaging applications are less secure than open source messaging apps like SIgnal and Telegram.
 
-Get off WhatsApp and start using [Signal](https://signal.org) and [Telegram](https://telegram.org). This might be the easiest transition to make. 
+Get off WhatsApp and your phone's default messaging app and start using [Signal](https://signal.org) and [Telegram](https://telegram.org). This might be the easiest transition to make. 
 
-### 3. One Good Password Is All You Need
+### 4. One Good Password Is All You Need
 
 Passwords are often the weakest link in your Internet security chain.  _Remembering a good password can be as easy as remembering a weak password._ 
 
@@ -42,5 +42,14 @@ We have two recommendations:
 Password managers can help you create very good, nearly-impossible-to-crack passwords. Not only that, but they can remember your usernames and passwords for the hundreds of sites you visit.
 
 After you get yourself an account with a password manger like [LastPass](https://lastpass.com) or [Dashlane](https://dashlane.com), lock it down securely with a good password. Here are some tips on [how to create a secure password]({{< ref "/post/howto-create-a-solid-password.md" >}} "How to Create a Secure Password")
-You might also want to check if your trusty, favourite password has been discovered during a data breach. Visit [this site](https://haveibeenpwned.com/Passwords) to verify. __Don't worry, you won't have to type in your username or the site where you use the password.__
+You might also want to check if your trusty, favourite password has been discovered during a data breach. Visit [this site](https://haveibeenpwned.com/Passwords) to verify. _Don't worry, you won't have to type in your username or the site where you use the password._
 
+### 5. Encrypted Mail
+
+American corporations have little respect for your privacy. Your email messages are stored in unencrypted format on their servers and they will happily share your private conversations with law enforcement agencies when asked to do so. Switch your mail service to Switzerland-based [ProtonMail](https://protonmail.com) or Germany-based [Tutanota](https://tutanota.com). Your emails are always saved in ecncrypted format and, when you send mail to other users of the same service, they are encrypted from start to finish.
+
+### 6. Virtual Private Networks
+
+Ever notice when you're browsing the Internet that they seem to know exactly _where_ you are? This usually happens because your web browser or other app shares your unique IP address with websites. There isn't a straightforward way to escape sharing your IP address—because it is where you live on the Internet—but you can re-route traffic via a server in another city or country using a **Virtual Private Network**. Think of a VPN as your secret on-ramp to the information highway. It is easy to set up and manage a VPN on your phone or computer. Most VPN providers charge a few dollars a month for their service, and some are free. [ProtonMail](https://protonmail.com) (the guys we recommended for encrypted mail) offer a free VPN service. [ExpressVPN](https://expressvpn.com/) is one of many paid VPN providers.
+
+* * * 
