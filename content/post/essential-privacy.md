@@ -27,7 +27,7 @@ Get yourself a safer web browser:
 Remove **Facebook** and **Instagram** from your phone. These two apps are some of the most invasive pieces of software. They ruthlessly track your every move and Internet habit. Instead of using these apps, you can use one of the browsers recommended above to visit their websites at www.facebook.com and www.instagram.com.
 
 ### 3. Text and Group Chats
-**WhatsApp** recently announced a change to its terms of service which has sent its users flocking to services like [Signal](https://signal.org) and [Telegram](https://telegram.org). WhatsApp might protect the content of your chats, but it makeno such assurance of privacy when it comes to sharing other data including your phone number, contacts, call details, payments, etc.
+**WhatsApp** recently announced a change to its terms of service which has sent its users flocking to services like [Signal](https://signal.org) and [Telegram](https://telegram.org). WhatsApp might protect the content of your chats, but it makes no such assurance of privacy when it comes to sharing other data including your phone number, contacts, call details, payments, etc. Similarly, your phone's standard text messaging applications are less secure than open source messaging apps like SIgnal and Telegram.
 
 Get off WhatsApp and start using [Signal](https://signal.org) and [Telegram](https://telegram.org). This might be the easiest transition to make. 
 
