@@ -13,6 +13,7 @@ theme = "ghostwriter"
     opengraph = true
 #    shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
+	adsensePublisher = "ca-pub-0740159377174624"
 
 [Permalinks]
     post = "/:filename/"
