@@ -46,7 +46,7 @@ You might also want to check if your trusty, favourite password has been discove
 
 ### 5. Encrypted Mail
 
-American corporations have little respect for your privacy. Your email messages are stored in unencrypted format on their servers and they will happily share your private conversations with law enforcement agencies when asked to do so. Switch your mail service to Switzerland-based [ProtonMail](https://protonmail.com) or Germany-based [Tutanota](https://tutanota.com). Your emails are always saved in ecncrypted format and, when you send mail to other users of the same service, they are encrypted from start to finish.
+American corporations have little respect for your privacy. Your email messages are stored in unencrypted format on their servers and they will happily share your private conversations with law enforcement agencies when asked to do so. Switch your mail service to Switzerland-based [ProtonMail](https://protonmail.com) or Germany-based [Tutanota](https://tutanota.com). Your emails are always saved in encrypted format and, when you send mail to other users of the same service, they are encrypted from start to finish.
 
 ### 6. Virtual Private Networks
 
